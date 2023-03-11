@@ -1,0 +1,14 @@
+.container {
+  min-width: 250px;
+}
+.gallery {
+  height: 316px;
+}
+.title,
+.description,
+.related {
+  height: 100px;
+}
+.buy-box {
+  height: 200px;
+}
